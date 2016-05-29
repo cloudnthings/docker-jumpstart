@@ -17,7 +17,7 @@ Overall, a Dockerfile is much more stripped down than the IA tools, consisting o
 INSTRUCTION arguments
 ```
 
-The following table summarizes the instructions; many of these options map directly to option in the "docker run" command:
+The following table summarizes the instructions; many of these options map directly to options in the "docker run" command:
 
 
 | Command    | Description 
